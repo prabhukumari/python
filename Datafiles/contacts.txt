@@ -1,0 +1,6 @@
+name1:[9963674059, 'name1@domain.ext']
+prabhukumari:['prabhukumari@gmail.com', 9947426208]
+sandhya:['sandhya4059@gmail.com', 9948426208]
+name1,7799098284,name_123@gmail.com
+name1,7799098284,name_123@gmail.com
+name1:7799098284,name_123@gmail.com

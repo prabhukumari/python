@@ -1,3 +1,0 @@
-newdata
- Line2
-Line3
